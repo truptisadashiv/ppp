@@ -4,4 +4,4 @@
 
 local mode
 
-server mode
+server modhuhh
